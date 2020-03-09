@@ -1,0 +1,42 @@
+.container-advertlytic-timer {
+  position: sticky;
+  padding: 0px;
+  margin: 0px;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	z-index: 1000;
+  background-color: #a1b322;
+  text-align: center;
+}
+
+.middle-advertlytic-timer > * {
+  vertical-align: middle;
+  color: white;
+}
+
+#text-advertlytic-timer {
+  box-sizing: border-box;
+  font-size: 1.5em;
+  margin: 0px;
+  margin-right: 20px;
+  display: inline-block; 
+}
+
+.container-advertlytic-timer li {
+  display: inline-block;
+  font-size: 1em;
+  list-style-type: none;
+  padding: 0em 1em;
+  text-transform: uppercase;
+  margin: 0px;
+  margin-bottom: 13px;
+}
+
+.container-advertlytic-timer li span {
+  display: block;
+  font-size: 3.5rem;
+  margin: 0px;
+  margin-bottom: -15px;
+  padding: 0px;
+}
