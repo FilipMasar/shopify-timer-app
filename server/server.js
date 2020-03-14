@@ -13,7 +13,7 @@ const fs = require('fs');
 
 
 dotenv.config();
-const port = parseInt(process.env.PORT, 10) || 8081;
+const port = parseInt(process.env.PORT, 10) || 8080;
 const dev = process.env.NODE_ENV !== "production";
 const app = next({
   dev
