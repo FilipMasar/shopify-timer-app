@@ -7,10 +7,10 @@ import Cookies from "js-cookie";
 import "@shopify/polaris/styles.css";
 import translations from "@shopify/polaris/locales/en.json";
 
+import fetch from 'node-fetch';
+
 const client = new ApolloClient({
-  fetchOptions: {
-    credentials: "include"
-  }
+    fetch: fetch
 });
 class MyApp extends App {
   render() {
