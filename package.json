@@ -49,7 +49,7 @@
     "koa-static": "^5.0.0",
     "mongodb": "^3.5.4",
     "mysql": "^2.18.1",
-    "next": "^9.3.0",
+    "next": "^11.1.0",
     "next-env": "^1.1.0",
     "rc-time-picker": "^3.7.3",
     "react": "^16.13.0",
