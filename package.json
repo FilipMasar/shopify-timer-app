@@ -36,7 +36,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "firebase": "^7.10.0",
-    "firebase-admin": "^8.9.2",
+    "firebase-admin": "^11.8.0",
     "graphql": "^14.6.0",
     "input-moment": "^0.4.0",
     "isomorphic-fetch": "^2.1.1",
